@@ -1,3 +1,4 @@
-Bruno Graf;25;75.0;1.82;Hipertrofia
-Pedro Vieira;21;88.0;1.88;Emagrecimento
-Jorge Matos;42;77.5;1.65;Tratar diabetes
+Bruno Graf;Homem;25;75.0;1.82;Moderado;Hipertrofia;2739.62
+Maria Eugenia;Mulher;33;77.3;1.74;Leve;Emagrecer;2109.93
+Jorge Bagre;Homem;54;99.8;1.88;Sedentario;Emagrecer;2283.60
+Katia Lopes;Mulher;22;48.7;1.64;Sedentario;Hipertrofia;1489.20
